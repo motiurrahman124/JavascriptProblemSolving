@@ -8,4 +8,4 @@ const reversefunc = (input) => {
   return result;
 };
 
-console.log("Reversed string is:", reversefunc("reverse string"));
+console.log("Reversed string is:", reversefunc("hello world"));
